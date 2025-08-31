@@ -1,0 +1,10 @@
+#comment
+print(2)
+print(6)
+a=5
+b=20/5
+c=str("b/a")
+d=a/b
+print(c)
+print(int(d))
+print(int(c))
